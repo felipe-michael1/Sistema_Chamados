@@ -24,7 +24,7 @@
 		                                                           // TCP port to connect to
 
 		    //Recipients
-		    $mail->setFrom('felipe_michae_fonseca@hotmail.com', 'Felipe');
+		    $mail->setFrom('felipe_michael_fonseca@hotmail.com', 'Felipe');
 		    $mail->addAddress($email, '');
 
 		    //Content
